@@ -1,7 +1,7 @@
 <?php
 
-$user_text = $_GET['user_text'];
-$text_form = $_GET['text_area'];
+$user_text = $_POST['user_text'];
+$text_form = $_POST['text_area'];
 
 // var_dump([123]);
 

@@ -9,7 +9,7 @@
 
 <body>
     <h1>Bad Words</h1>
-    <form action="form.php" method='GET'>
+    <form action="form.php" method='POST'>
         <input type="text" placeholder='inserici il testo' name='user_text'>
         <input type="textarea" name="text_area">
         <button type='submit'>Invia</button>
